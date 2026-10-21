@@ -1,0 +1,24 @@
+.DS_Store
+
+# STM32CubeIDE and local build outputs
+Debug/
+Release/
+build/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+build.log
+
+# Local test outputs
+*.dylib
+*.so
+*.dll
+__pycache__/
+*.pyc
+

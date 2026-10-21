@@ -1,0 +1,10 @@
+ARM GCC 13.3: build.py succeeded, no warnings.
+STM32CubeIDE Debug build: 0 errors, 0 warnings.
+Firmware (build.py): text 25604 bytes, data 24 bytes, bss 19216 bytes.
+Host tests: movement, jump, pause, menu, hazards, retry, stars, transitions PASS.
+Level 1: all three stars and finish, 184 physics ticks.
+Level 2: all three stars and finish, 180 physics ticks.
+Level 3: all three stars and finish, 184 physics ticks.
+OpenOCD configuration parsed successfully (no programming attempted).
+USB registry: no external USB device present. Hardware run unverified.
+Upstream SDK commit: bd8cba8f4bd5fc2d1460e6ad4da7b7dd13d9e14d
